@@ -1,2 +1,18 @@
-# NaamKaran-
-The Developers nowadays feel difficult to name their applications , products or softwares and it becomes tedious tasks to think what should they name their softwares. Hence , I am building NaamKaran App for the same. 
+# Naamkaran
+
+An Application focusing on 
+* Ideate
+* Design
+* Build 
+
+----------------
+
+What I learnt from this project?
+* React Basics
+* Animations
+* Class Based and Function Based Components
+* React Hooks
+* Deploying the React App
+
+----------------
+
